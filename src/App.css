@@ -6,6 +6,13 @@
   height: 40vmin;
   pointer-events: none;
 }
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+  left: -5rem;
+}
+
+.avatar {
+  border-radius: 50%;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
