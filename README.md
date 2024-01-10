@@ -12,3 +12,4 @@ Developed a web-based application, Firestock, using React.js and Firebase to fac
 
 **Backend and Database**: Firebase (Storage, Authentication, Firestore)
 
+**Live Link:** https://firestock-c91bf.web.app/
