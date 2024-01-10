@@ -8,7 +8,7 @@ Developed a web-based application, Firestock, using React.js and Firebase to fac
 
 **Search and Filter Functionality**: Implemented robust search and filter features to enhance user experience, allowing efficient organization and retrieval of stored photos.
 ## Technologies Used:
-**Frontend**: React.js
+**Frontend**: React.js, Bootstrap
 
 **Backend and Database**: Firebase (Storage, Authentication, Firestore)
 
